@@ -1,0 +1,19 @@
+/* i.icon {
+  font-size: 1.5em;
+} */
+
+.container.main {
+  margin-top: 7em;
+}
+
+.alert {
+  margin-top: 7em;
+}
+
+#delete {
+  display: inline;
+}
+
+#nav {
+  font-size: 1.4em;
+}
